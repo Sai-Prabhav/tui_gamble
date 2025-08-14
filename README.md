@@ -36,4 +36,4 @@ This project is open to contributions from beginners. Here are some ideas for ho
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the  GPL-3.0 License. See the `LICENSE` file for more information.
