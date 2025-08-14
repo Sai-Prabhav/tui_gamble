@@ -1,6 +1,6 @@
 import random
 
-total = 1_00_000
+total = 100000
 
 
 def toss():
